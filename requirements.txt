@@ -1,0 +1,6 @@
+git+https://oauth2:${GITLAB_TOKEN}@gitaddress.com/qa/logger.git
+pytest
+python-logstash
+sqlalchemy
+psycopg2-binary
+pylint
